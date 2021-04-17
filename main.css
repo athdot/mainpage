@@ -98,3 +98,15 @@ body {
   color: #302923;
 text-shadow: 0px 0px #302923;
 }
+
+input {
+  width: 40%;
+  height: 24;
+  margin: 10 10 10 10;
+}
+
+textarea {
+  width: 80%;
+  height: 128;
+  margin: 10 10 10 10;
+}
